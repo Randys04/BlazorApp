@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d79cGwfFgv+dfrIcPxoNQ7z/DJ5yY24svcMUBGaKx2w=",
+  "Hash": "eijYtuliTmNfemUS6ayfIFJNnrrCPrfWd+Wimi2gL2g=",
   "Source": "BlazorApp_PlatziCourse",
   "BasePath": "/",
   "Mode": "Root",
@@ -6968,6 +6968,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\service-worker-assets.js.build"
+    },
+    {
+      "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\appsettings.json",
+      "SourceId": "BlazorApp_PlatziCourse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\css\\app.css",

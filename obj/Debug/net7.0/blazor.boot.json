@@ -1,6 +1,8 @@
 {
   "cacheBootResources": true,
-  "config": [ ],
+  "config": [
+    "appsettings.json"
+  ],
   "debugBuild": true,
   "entryAssembly": "BlazorApp_PlatziCourse",
   "icuDataMode": 0,
@@ -198,13 +200,13 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "BlazorApp_PlatziCourse.dll": "sha256-OwWZBT1CikhRiOlwZgNzSEKkuk006OyeSzI98EzYTr4="
+      "BlazorApp_PlatziCourse.dll": "sha256-PkPH8sqHSZxcoFHZHr3GAFkJSymubjmzoYtzFLw6Ilw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorApp_PlatziCourse.pdb": "sha256-CsbEcEZ1w4lhxCJPTYECHXF3Zij0hyvdxNzsBKveo98="
+      "BlazorApp_PlatziCourse.pdb": "sha256-etyaVCWWIU42i0mf+Ca6fEp2ZEAEP2Sn75UDXwmKeXM="
     },
     "runtime": {
       "dotnet.7.0.12.n9djdtrfys.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",

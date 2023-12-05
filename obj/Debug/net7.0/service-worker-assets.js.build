@@ -77,6 +77,10 @@
       "url": "BlazorApp_PlatziCourse.styles.css"
     },
     {
+      "hash": "sha256-J1dKcAOzlLbDKsqLX6O4EWuYNl2pk8SPTBly0uQQCNA=",
+      "url": "appsettings.json"
+    },
+    {
       "hash": "sha256-rtkwhICTsYE9Dtvit4qmKukHxhcBii8IGbm5icnCWbM=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -869,11 +873,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-GdCsPTj8PgwCISupHWX7HkCE2JgL79yLU4A66h6c9c8=",
+      "hash": "sha256-+I2buF1mNrj\/s+4\/3KQZ74gzRoiMDzpX8hysu2fg7ik=",
       "url": "_framework\/BlazorApp_PlatziCourse.dll"
     },
     {
-      "hash": "sha256-hjdhG\/jAXCiM3HgJmyVCzRlxricZCloI0fZLnlcHUC0=",
+      "hash": "sha256-dJwXGY8+XcbZgNQkvWTWKZE8feCCoqfRzY+6fQUaHes=",
       "url": "_framework\/BlazorApp_PlatziCourse.pdb"
     },
     {
@@ -881,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-dRoiP3U0deobzmznJXhbFZdAcgeG3oWJ85d2DEJt3XE=",
+      "hash": "sha256-4kkNN+4ni6kC14X4AroqcZdISt3YoIfq+2f0eyCPeyo=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "OtcR+KUU"
+  "version": "XozQjfEP"
 };
