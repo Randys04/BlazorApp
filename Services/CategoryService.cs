@@ -4,20 +4,32 @@ using System.Text.Json;
 
 namespace BlazorApp_PlatziCourse.Services
 {
-	public class CategoryService
+	public class CategoryService : ICategoryService
 	{
 		private readonly HttpClient client;
 		private readonly JsonSerializerOptions options;
-		public CategoryService(HttpClient _client, JsonSerializerOptions _options)
+		public CategoryService(HttpClient _client)
 		{
 			client = _client;
-			options = _options;
+			options = options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
 		}
 
-		public async Task<List<Category>?> GetCategory()
+		public async Task<List<Category>?> GetCategories()
 		{
 			var response = await client.GetAsync("v1/categories");
 			return await JsonSerializer.DeserializeAsync<List<Category>>(await response.Content.ReadAsStreamAsync());
 		}
+
+		public async Task<Category?> GetCategory(int categoryId)
+		{
+			var response = await client.GetAsync($"v1/categories/{categoryId}");
+			return await JsonSerializer.DeserializeAsync<Category>(await response.Content.ReadAsStreamAsync());
+		}
+	}
+
+	public interface ICategoryService
+	{
+		Task<List<Category>?> GetCategories();
+		Task<Category?> GetCategory(int categoryId);
 	}
 }

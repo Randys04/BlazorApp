@@ -4,20 +4,26 @@ using System.Text.Json;
 
 namespace BlazorApp_PlatziCourse.Services
 {
-	public class ProductService
+	public class ProductService : IProductService
 	{
 		private readonly HttpClient client;
 		private readonly JsonSerializerOptions options;
-		public ProductService(HttpClient _client, JsonSerializerOptions _options) 
+		public ProductService(HttpClient _client) 
 		{
 			client = _client;
-			options = _options;
+			options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true};
 		}
 
 		public async Task<List<Product>?> GetProducts() 
 		{
 			var response = await client.GetAsync("v1/products");
-			return await JsonSerializer.DeserializeAsync<List<Product>>(await response.Content.ReadAsStreamAsync());
+			var content = await response.Content.ReadAsStringAsync();
+			if (!response.IsSuccessStatusCode)
+			{
+				throw new ApplicationException(content);
+			}
+
+			return JsonSerializer.Deserialize<List<Product>>(content, options);
 		}
 
 		public async Task AddProducts(Product product)
@@ -40,5 +46,12 @@ namespace BlazorApp_PlatziCourse.Services
 			}
 		}
 
+	}
+
+	public interface IProductService 
+	{
+		Task<List<Product>?> GetProducts();
+		Task AddProducts(Product product);
+		Task DeleteProducts(int productId);
 	}
 }
