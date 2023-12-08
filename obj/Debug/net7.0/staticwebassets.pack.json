@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\css\\bootstrap\\bootstrap.Products.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.Products.css"
+    },
+    {
       "Id": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },

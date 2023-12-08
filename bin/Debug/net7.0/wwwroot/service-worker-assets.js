@@ -13,6 +13,10 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
+      "hash": "sha256-seLvrIziRTe4Tlf0fYueUR3CMBCvnX82fp2AZmUweTk=",
+      "url": "css\/bootstrap\/bootstrap.Products.css"
+    },
+    {
       "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
       "url": "css\/open-iconic\/FONT-LICENSE"
     },
@@ -873,11 +877,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-kSTfraj\/a4sPlbEdAiU7caX0454CcTOHTZaoWGL6KKM=",
+      "hash": "sha256-lT9TZiv2YulyVNK\/jVjb9UnNQOjR0rDHna24yEC0Tyc=",
       "url": "_framework\/BlazorApp_PlatziCourse.dll"
     },
     {
-      "hash": "sha256-wE+Up1LYE6fESk2daGKxCyuzlpt2hNTgkAjUh\/J\/LLo=",
+      "hash": "sha256-\/7MXzxDU8L8F8Zu7QsWR8pJhA5rtCMrTSvlgutoeb6A=",
       "url": "_framework\/BlazorApp_PlatziCourse.pdb"
     },
     {
@@ -885,9 +889,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-NtRCPrWSfmAHQ2dmEb7vrQCYbmlSRERLN95OtUuC94s=",
+      "hash": "sha256-MxBLKE5dgMRXMw8LBheOSIgHFJ\/mBFWmEmc4F4zVXyI=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "b4BowwML"
+  "version": "L56JH4si"
 };

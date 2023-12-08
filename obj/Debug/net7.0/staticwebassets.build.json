@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eijYtuliTmNfemUS6ayfIFJNnrrCPrfWd+Wimi2gL2g=",
+  "Hash": "BOaqfwZpplbiUm7j5oS9PRpB9LgnjU7i+8NDJHDp3+E=",
   "Source": "BlazorApp_PlatziCourse",
   "BasePath": "/",
   "Mode": "Root",
@@ -7036,6 +7036,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\css\\bootstrap\\bootstrap.Products.css",
+      "SourceId": "BlazorApp_PlatziCourse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.Products.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.Products.css"
     },
     {
       "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
