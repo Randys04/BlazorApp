@@ -3,10 +3,13 @@
 @using BlazorApp_PlatziCourse.Services;
 @inject ILogger<Products> logger;
 @inject IProductService productService;
+@inject NavigationManager navigationManager;
 
 <PageTitle>Products</PageTitle>
 
 <ModuleTitle title="Products"/>
+
+<button class="btn btn-dark" @onclick="@(()=> navigationManager.NavigateTo("/addproduct"))">Add product</button>
 
  <style>
 	.products-container {
