@@ -16,9 +16,6 @@ namespace BlazorApp_PlatziCourse.Services
 
 		public async Task<List<Category>?> GetCategories()
 		{
-			//var response = await client.GetAsync("v1/categories");
-			//return await JsonSerializer.DeserializeAsync<List<Category>>(await response.Content.ReadAsStreamAsync());
-
             var response = await client.GetAsync("v1/categories");
             var content = await response.Content.ReadAsStringAsync();
             if (!response.IsSuccessStatusCode)
