@@ -5,6 +5,8 @@
 @inject IProductService productService;
 @inject NavigationManager navigationManager;
 @inject IJSRuntime JSRuntime;
+@inject IToastService toastService;
+
 
 <PageTitle>Products</PageTitle>
 
@@ -64,6 +66,7 @@ else
 			return;
 		}
 		await productService.DeleteProducts(product.Id);
+		toastService.ShowSuccess("Deleted product");
 		await GetProducts();
 	}
 }

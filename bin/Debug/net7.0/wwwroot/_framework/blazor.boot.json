@@ -9,6 +9,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.Toast.dll": "sha256-6wGoA8FmxkQCTFIXEM+U+Y2kJJnSTJXRYwuByAUPWGU=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-rtkwhICTsYE9Dtvit4qmKukHxhcBii8IGbm5icnCWbM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Qv8HUc4bc7hrinChcgqA5WvNTVXrGrA7KqK+y9K08KM=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-OBwQa9gr6aP+n\/xh7tnGjONUh7W1qym12VKXdPnpyUI=",
@@ -200,13 +201,13 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "BlazorApp_PlatziCourse.dll": "sha256-nmEBPHKMTMRIq4MertpNGHhWjI9e9e1PRZxRk09L8po="
+      "BlazorApp_PlatziCourse.dll": "sha256-3OUvED4IIkHMpAO0T\/oFpGKVSNN9uvL2Ob5dD8W4GDs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorApp_PlatziCourse.pdb": "sha256-gi86V+up4isKtnb1zBjUgLCp4jFm7Fe5pta2dsMjwVc="
+      "BlazorApp_PlatziCourse.pdb": "sha256-9bFIsoSw2Y2hLfINCmYS2\/ibmYodHnPVmMShp25UFO8="
     },
     "runtime": {
       "dotnet.7.0.12.n9djdtrfys.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",

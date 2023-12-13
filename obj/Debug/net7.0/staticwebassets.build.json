@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BOaqfwZpplbiUm7j5oS9PRpB9LgnjU7i+8NDJHDp3+E=",
+  "Hash": "zC+SKQJMbiXxH/BqL9fnbBg3J5s0qHONbPaWT4wJeGI=",
   "Source": "BlazorApp_PlatziCourse",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Randy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Randy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Randy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "BlazorApp_PlatziCourse",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazorApp_PlatziCourse.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "SourceId": "BlazorApp_PlatziCourse",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Randy\\.nuget\\packages\\blazored.toast\\4.1.0\\lib\\net7.0\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.12.n9djdtrfys.js",
@@ -3891,6 +3925,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Runtime.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\obj\\Debug\\net7.0\\build-gz\\6menunFl.gz",
+      "SourceId": "BlazorApp_PlatziCourse",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\Randy\\Desktop\\arrow\\Platzi_cursos\\Curso_WebAssembly_Blazor\\BlazorApp_PlatziCourse\\BlazorApp_PlatziCourse\\obj\\Debug\\net7.0\\build-gz\\78xDb2Kf.gz",

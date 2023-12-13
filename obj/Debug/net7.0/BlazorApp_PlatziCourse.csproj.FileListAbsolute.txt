@@ -830,3 +830,7 @@ C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_Pl
 C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\obj\Debug\net7.0\refint\BlazorApp_PlatziCourse.dll
 C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\obj\Debug\net7.0\BlazorApp_PlatziCourse.pdb
 C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\obj\Debug\net7.0\ref\BlazorApp_PlatziCourse.dll
+C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll
+C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll.gz
+C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\bin\Debug\net7.0\Blazored.Toast.dll
+C:\Users\Randy\Desktop\arrow\Platzi_cursos\Curso_WebAssembly_Blazor\BlazorApp_PlatziCourse\BlazorApp_PlatziCourse\obj\Debug\net7.0\build-gz\6menunFl.gz
