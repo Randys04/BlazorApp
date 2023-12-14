@@ -201,13 +201,13 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "BlazorApp_PlatziCourse.dll": "sha256-3OUvED4IIkHMpAO0T\/oFpGKVSNN9uvL2Ob5dD8W4GDs="
+      "BlazorApp_PlatziCourse.dll": "sha256-xv7Vn\/65zYaSejL4fQwJ8ZdLsdqgFjy0rev\/UIJaqIA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorApp_PlatziCourse.pdb": "sha256-9bFIsoSw2Y2hLfINCmYS2\/ibmYodHnPVmMShp25UFO8="
+      "BlazorApp_PlatziCourse.pdb": "sha256-QQonYM8J129C3BnncTvb42hUB123kB0+UJLkXnZU9Tw="
     },
     "runtime": {
       "dotnet.7.0.12.n9djdtrfys.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",
